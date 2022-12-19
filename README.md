@@ -3,4 +3,4 @@ In this project I've created an algorithm that selects features on a dataset acc
 
 Also I compare my algorithm with MIFS's one, PCA and the results of using all features in the dataset.
 
-![alt text](https://github.com/SilviaCalvarro/DataScience-FeatureSelection/blob/master/roc.png)
+![alt text](https://github.com/SilviaCalvarro/feature_selection_plusL_minusR/blob/main/images/roc.png)
